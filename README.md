@@ -1,7 +1,7 @@
 # Projects
 <p align="center">
   <img src="https://i.imgur.com/4YZF8Y3.png"> </br>
-📝 Info about all my project repositories and their development progess.
+📝 Info about all my project repositories and their development progess. The projects are listed in chronological order
 </p>
 
 | Symbol| Meaning|
